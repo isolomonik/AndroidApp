@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Main1Activity.class);
         startActivity(intent);
     }
+    public static  long factorial (int n){
+        return 654;
+
+    }
 }
