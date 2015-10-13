@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
     private EditText editText;
-    private Button button;
+     Button button;
 
 
     @Override
